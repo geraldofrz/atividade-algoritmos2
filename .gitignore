@@ -1,0 +1,11 @@
+# Executaveis e objetos gerados pelo compilador
+*.exe
+*.o
+*.out
+
+# Arquivos do Code::Blocks
+*.layout
+*.depend
+*.cbp
+bin/
+obj/
